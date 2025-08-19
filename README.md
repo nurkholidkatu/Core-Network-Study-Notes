@@ -5,11 +5,8 @@ The materials are compiled from multiple sources, including:
 
 - [3GPP Specifications](https://www.3gpp.org/)
 - [Netmanias](https://www.netmanias.com/)
-- Huawei Documentation
+- [telecomHall](https://www.telecomhall.net/)
 - Various books and references on mobile communication systems
-
-The purpose of this repository is to organize and summarize my learning progress about core networks in a structured way.  
-It is designed as both a personal knowledge base and a reference for others who are also studying mobile core network technologies.
 
 ---
 
