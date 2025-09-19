@@ -31,7 +31,6 @@ The study notes in this repository cover (but are not limited to) the following 
 - **Network Virtualization**
   - NFV (Network Functions Virtualization)
   - SDN (Software Defined Networking)
-  - Cloud-native Core (CNF, Containers, Kubernetes in 5G Core)
 
 - **Security and Policy**
   - Authentication and Key Agreement (AKA)
